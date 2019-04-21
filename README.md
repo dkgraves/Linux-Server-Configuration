@@ -10,7 +10,6 @@ This server is hosted on the Amazon AWS Lightsail platform
 **using $ sudo apt-get install <package name>**
 
 * finger - *can be used to view user info, not required*
-* 
 * apache2
 * libapache2-mod-wsgi
 * postgresql
