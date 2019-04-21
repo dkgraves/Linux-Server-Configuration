@@ -3,7 +3,8 @@ Udacity Full Stack
 
 ## Server Information
 This server is hosted on the Amazon AWS Lightsail platform
-* The ip address is 18.221.242.20
+* The ip address is 18.221.242.20 or 18.221.242.20:80
+* ssh port 2200
 * The url to access the catalog project web page is 18.221.24.20 or 18.221.24.20:80
 
 ## Installed Packages
@@ -416,5 +417,6 @@ This server is hosted on the Amazon AWS Lightsail platform
 * Ubuntu help on UFW: https://help.ubuntu.com/community/UFW
 * Stack Overflow
 * Amazon Lightsail
+* Udacity Full Stack lessons
 * Udacity Knowledge Center
 * Udacity Student Hub
